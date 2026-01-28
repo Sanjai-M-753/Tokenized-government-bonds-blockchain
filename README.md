@@ -11,7 +11,8 @@
 
 
 
-“By combining the safety of government bonds with the transparency of blockchain, we aim to make secure investments accessible to everyone.”
+<img width="4176" height="140" alt="image" src="https://github.com/user-attachments/assets/e7a52dcb-a328-44ca-8b1d-302e672937ae" />
+
 
 
 
