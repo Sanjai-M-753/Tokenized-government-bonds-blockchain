@@ -1,5 +1,5 @@
 
-![Uploading image.png…]()
+<img width="4176" height="140" alt="image" src="https://github.com/user-attachments/assets/e17a6a51-1e5c-42cc-a30b-0e8fb3bbb1fe" />
 
 
 
@@ -10,6 +10,8 @@
 
 
 
+
+“By combining the safety of government bonds with the transparency of blockchain, we aim to make secure investments accessible to everyone.”
 
 
 
